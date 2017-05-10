@@ -1,0 +1,9 @@
+source_data,repeat_times
+lucky,2
+foo,3
+
+Row number:13
+Repeat number:2
+Unique number:11
+Time used:0.1509ms
+Memory used:0.254Mb
